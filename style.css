@@ -1,0 +1,431 @@
+*{
+    margin: 0;
+}
+
+
+
+.s1{
+    background-color: rgb(141, 39, 39);
+    text-align: center;
+    padding: 20px;
+  
+
+}
+a{
+    color: rgb(0, 0, 0);
+    margin: 20px;
+    text-decoration: none;
+
+}
+.jonas1 {
+    background-color: rgb(141, 39, 39);
+    color: rgb(0, 0, 0);
+    margin: 20px;
+    height: 300px;
+    display:flex;
+    justify-content: space-between;
+    padding: 20px;
+    border-radius: 20px;
+    border: solid black;
+
+
+}
+img {
+    width: 350px;
+    border-radius: 50%;
+}
+h1{
+    padding: 20px;
+}
+.p100{
+    padding: 3px;
+}
+p {
+padding: 20px;
+}
+h2 {
+    padding: 20px ;
+}
+
+.jonas3 {
+    background-color: rgb(141, 39, 39);
+    border-radius: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    color: black;
+    border: solid black;
+    
+    
+
+}
+
+.p1 {
+    padding: 20px;
+}
+
+.jonas4 {
+    padding: 20px;
+}
+
+.jonas7 {
+    background-color: rgb(141, 39, 39);
+    margin: 20px; 
+    border-radius: 20px;
+    height:350px;
+    padding: 20px;
+    color: black;
+    justify-content: space-between;
+    display: flex;
+    border: solid black;
+}
+
+.jonas12 {
+    background-color: rgb(202, 90, 90);
+    border-radius: 20px;
+    margin: 20px;
+    color: black;
+    height: 50px;
+    padding: 20px;
+    text-align: center;
+    border: solid black;
+}
+
+.p200 {
+    
+}
+
+.about1 {
+     text-align: center;
+}
+
+.aboutme {
+    color: rgb(255, 255, 255);
+}
+
+.about1 p {
+    color: aliceblue;
+    
+}
+
+
+.body2{
+    background-color: rgb(141, 39, 39);
+}
+
+.about3 {
+    background-color: aliceblue;
+    border-radius: 20px; 
+    margin: 30px auto;
+    padding: 35px;
+    color: darkred;
+   
+    font-size: 20px; 
+    width: 320px; 
+}
+
+.about3 h2 {
+    border-bottom: 3px solid darkred;
+    padding-bottom: 10px;
+    font-size: 28px;
+    margin-top: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.about3 p {
+    font-size: 17px;
+    line-height: 1.8;
+    text-align: justify;
+    margin: 15px 0;
+    margin-bottom: 0;
+}
+.P-about {
+    color: black;
+}
+
+.about4 {
+   
+    background-color: aliceblue;
+    color: black;
+    border-radius: 20px;  
+    margin: 30px auto;
+    font-size: 20px;
+    width: 320px;
+    padding: 35px;
+   
+   
+  
+}
+
+.about4 h2 {
+    border-bottom: 3px solid darkred;
+    padding-bottom: 10px;
+    font-size: 28px;
+    margin-top: 0;
+}
+
+
+
+.p1000 {
+    color: darkred;
+}
+.h22 {
+    color: darkred;
+}
+
+.about6 {
+    background-color: aliceblue;
+    color: black;
+    margin: 30px auto;
+    padding: 35px;
+    border-radius: 20px;
+    width: 320px;
+    font-size: 20px;
+
+}
+
+.about6 h2{
+    border-bottom: 3px solid darkred;
+    padding-bottom: 10px;
+    font-size: 28px;
+    margin-top: 0;
+   
+}
+
+.about6 p {
+     line-height: 1.8;
+}
+
+.Myjourney {
+    color: darkred;
+}
+
+.about8 {
+    background-color: aliceblue;
+    color: black;
+    margin: 30px auto;
+    padding: 35px;
+    border-radius: 20px;
+    width: 320px;
+    font-size: 20px;
+}
+
+.about9 p {
+    line-height: 1.8;
+}
+
+.about8 h2 {
+     border-bottom: 3px solid darkred;
+    padding-bottom: 10px;
+    font-size: 28px;
+    margin-top: 0;
+}
+
+.about8 h2{
+    color: darkred;
+}
+
+.about10 {
+    background-color: aliceblue;
+    color: black;
+    margin: 30px auto;
+    width: 320px;
+    padding: 35px;
+    border-radius: 20px;
+    margin-top: 0;
+    font-size: 20px;
+
+}
+
+.about11 p {
+    line-height: 1.8;
+}
+
+.about10 h2 {
+    color: darkred;
+     border-bottom: 3px solid darkred;
+    padding-bottom: 10px;
+    font-size: 28px;
+    margin-top: 0;
+
+}
+
+.end1 {
+    
+      background-color: rgb(202, 90, 90);
+    border-radius: 20px;
+    margin: 10px auto;
+    
+    color: black;
+    height: auto;
+    padding: 20px;
+    text-align: center;
+    border: solid black;
+}
+
+.contactme {
+   text-align: center;
+   font-size: 29px;
+}
+
+.contact1 {
+    background-color:  rgb(141, 39, 39);
+    color: black;
+    text-align: center;
+    margin: 80px auto;
+    padding: 20px;
+    margin-top: 80px;
+    display: block;
+    max-width: fit-content;
+    font-weight: bold;
+    border-radius: 30px;
+}
+
+.contact2 {
+     text-align: left;
+}
+
+.bg1 {
+    background-color: rgb(194, 66, 66);
+    height: 400px;
+    margin: 500px;
+    padding: 30px;
+    border-radius: 30px;
+    margin-top: 80px;
+    border: solid black;
+   
+   
+}
+
+body {
+ background-color: brown;
+}
+
+.s1 {
+    background-color: rgb(194, 66, 66)
+}
+
+.section1 {
+    .section2 {
+        display: flex;
+        margin-top: 400px;
+        justify-content: center;
+        align-items: center;
+        
+        flex-wrap: wrap;
+        .div1 {
+            background-color: blue;
+            width: 290px;
+            height: 290px;
+        }
+        .div2 {
+            background-color: rgb(255, 0, 0);
+            width: 290px;
+            height: 290px;
+        }
+        .div3 {
+            background-color: rgb(2, 255, 44);
+            width: 290px;
+            height: 290px;
+        }
+    
+}
+}
+
+@media (max-width: 768px) {
+    .section1 {
+        .section {
+            align-items: center;
+            flex-direction: column;
+        }
+    }
+    
+}
+
+.edu1 {
+    background-color: rgb(194, 66, 66);
+    text-align: center;
+    
+}
+
+img {
+    border-radius: 100px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    margin-top: 70px; 
+}
+
+.edu3 {
+    text-align: center;
+    padding: 0%;
+    background-color: rgb(202, 90, 90);
+    padding: 35px;
+    margin: 30px auto;
+    width: 520px;
+    border-radius: 30px;
+    font-size: 20px;
+     line-height: 1.8;
+    font-size: 16px;
+
+}
+
+.end10 {
+    background-color: rgb(202, 90, 90);
+    border-radius: 30px;
+    border: solid black;
+    text-align: center;
+    height: 20px;
+    padding: 70px;
+   
+}
+@media (max-width: 768px) {
+    .mobile {
+        background-color: aqua;
+        font-size: 29px;
+    }
+    .Tablet {
+        display: none;
+    }
+
+    .Laptop {
+        display: none;
+    }
+}
+
+
+@media (min-width: 769px) and (max-width: 992px) {
+    .mobile {
+        display: none;
+    }
+    .Tablet {
+        background-color: rgb(177, 34, 141);
+        font-size: 37px;
+    }
+
+    .Laptop {
+        display: none;
+    }
+}
+
+
+@media (min-width: 993px) and (max-width: 1200px) {
+    .mobile {
+        display: none;
+    }
+    .Tablet {
+      display: none;
+    }
+
+    .Laptop {
+     background-color: rgb(177, 102, 17);
+        font-size: 24px;
+    }
+}
+
+
+
